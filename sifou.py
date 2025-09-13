@@ -52,7 +52,7 @@ def send_welcome(message):
     # 🖼️ إرسال صورة مع الكابشن والكيبورد
     bot.send_photo(
         chat_id=message.chat.id,
-        photo="هنا_رابط_الصوره",  # ضع رابط الصورة هنا
+        photo="https://t.me/G_K_L_A_K/8",
         caption=caption_text,
         parse_mode="Markdown",
         reply_markup=keyboard
