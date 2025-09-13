@@ -27,8 +27,8 @@ def generate_name():
 @bot.message_handler(commands=['start'])
 def send_welcome(message):
     # 🔗 روابط الأزرار
-    dev_url = "https://t.me/T_0_M0"
-    channel_url = "https://t.me/+rOHRWb8RgetmZDEy"
+    dev_url = "https://t.me/XX_VV_88"
+    channel_url = "https://t.me/G_L_S_B"
 
     # ⌨️ إنشاء الكيبورد
     keyboard = types.InlineKeyboardMarkup()
