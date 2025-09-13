@@ -1,4 +1,5 @@
-import telebot import types
+import telebot
+from telebot import types
 import random
 
 # ضع التوكن الخاص ببوتك هنا
